@@ -46,56 +46,16 @@ Pour exécuter ce projet localement, suivez les étapes ci-dessous :
 
 1. Clonez ce dépôt GitHub sur votre machine locale :
    ```bash
-   git clone https://github.com/votre-utilisateur/projet-analyse-donnees.git
+   git clone https://github.com/kaabouc/PROJET-ANALYSE-DES-DONNEES.git
    ```
 2. Accédez au répertoire du projet :
    ```bash
-   cd projet-analyse-donnees
+   cd PROJET-ANALYSE-DES-DONNEES
    ```
 3. Installez les dépendances requises :
    ```bash
    pip install -r requirements.txt
    ```
-
-## Utilisation
-
-1. **Exploration des Données**
-   - Exécutez le script `exploration_donnees.py` pour charger et explorer les données.
-   ```bash
-   python exploration_donnees.py
-   ```
-
-2. **Analyse en Composantes Principales (ACP)**
-   - Exécutez le script `acp.py` pour effectuer l'ACP et visualiser les résultats.
-   ```bash
-   python acp.py
-   ```
-
-3. **Classification k-means**
-   - Exécutez le script `kmeans.py` pour appliquer l'algorithme k-means.
-   ```bash
-   python kmeans.py
-   ```
-
-4. **Classification Ascendante Hiérarchique (CAH)**
-   - Exécutez le script `cah.py` pour effectuer la CAH et analyser les résultats.
-   ```bash
-   python cah.py
-   ```
-
-5. **Régression Simple et Multiple**
-   - Exécutez le script `regression.py` pour ajuster les modèles de régression.
-   ```bash
-   python regression.py
-   ```
-
-6. **Analyse des Correspondances Multiples (ACM)**
-   - Exécutez le script `acm.py` pour effectuer l'ACM et interpréter les correspondances.
-   ```bash
-   python acm.py
-   ```
-
-
 
 ## Contact
 
